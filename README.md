@@ -1,26 +1,22 @@
-# Movies Financial Analysis – Excel
+# E-Commerce Sales Dashboard (Excel)
 
 ## Project Overview
-An Excel-based financial analysis dashboard developed to analyze movie performance and financial metrics.
+An Excel-based E-Commerce Sales Dashboard developed to analyze sales performance, customer orders, product performance, and regional sales trends.
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
+## Key Features
+- Analyzed 7,000+ e-commerce orders.
+- Calculated Total Net Sales, Total Orders, Quantity Sold, and Average Order Value.
+- Analyzed regional sales and sales channel performance.
+- Created PivotTables and PivotCharts.
+- Developed an interactive dashboard with slicers and visualizations.
+
+## Tools & Technologies
+- Microsoft Excel 2016
+- PivotTables
+- PivotCharts
 - Excel Formulas
+- Data Cleaning
 - Data Analysis
 
-## Key Analysis
-- Total Revenue
-- Total Budget
-- Profit
-- Profit Margin
-- Movie Performance
-- Genre-wise Analysis
-- Year-wise Financial Trends
-
-## Dashboard
-The project includes an interactive Excel dashboard for analyzing movie financial performance.
-
-## Objective
-To analyze movie financial data and identify trends, profitability, and performance using Microsoft Excel.
+## Project File
+Ecommerce_Sales_Dashboard.xlsx
